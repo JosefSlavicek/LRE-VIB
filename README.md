@@ -5,4 +5,5 @@ LRE i-vector classifier using [Variational Information Bottleneck](https://arxiv
 Usage
 ----
 In `main.py`, edit class `DataLoader` to load data from your location. Then run 
-python `main.py`
+
+`python main.py`
